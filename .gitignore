@@ -1,0 +1,31 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Packaged builds and local exports
+Bakery_exe/
+
+# Codex/local inspection artifacts
+.codex/
+.codex_image_tmp/
+.codex_inspect/
+questionnaire_render/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]

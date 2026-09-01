@@ -1,0 +1,178 @@
+[[AdvancedFormat]]
+
+[[Block:Instructions]]
+
+[[Question:Text]]
+Instructions
+
+Please complete this anonymous questionnaire after playing the game prototype. For Q1-Q15, select one response for each statement. Choose N/A only when you did not encounter or could not assess the feature.
+
+[[Block:A. Visual Presentation]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q1. The game's overall visual style appears consistent.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q2. The game has a visually appealing appearance.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q3. The characters, products, and environmental objects are easy to distinguish.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q4. When the camera or characters move, there is no noticeable flickering or visual distortion that affects gameplay.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q5. The visual style is appropriate for the atmosphere of a bakery management game.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Block:B. Customer Text Feedback]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q6. The text displayed above customers is easy to understand.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q7. What customers say is consistent with the situation occurring in the game.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q8. The customer feedback contains enough variation and does not feel overly repetitive.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q9. The customers' behaviour and language make them feel believable.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q10. Customer feedback helps me understand the outcomes of my management decisions.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q11. Customer feedback helps me decide how to adjust my management strategy.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Block:C. Immersion and Overall Player Experience]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q12. The game's visual style, customer feedback, and management gameplay work naturally together.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q13. I can perceive the effects of my management decisions on the customers and the state of the bakery.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q14. I remained engaged in the bakery management activities during the playtest.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Q15. Overall, I am satisfied with my experience of playing the game prototype.
+[[Choices]]
+1 - Strongly disagree
+2 - Disagree
+3 - Neutral
+4 - Agree
+5 - Strongly agree
+N/A - Not applicable
+
+[[Block:D. Open-Ended Questions]]
+
+[[Question:TextEntry:Essay]]
+Q16. How would you evaluate the game's visual style? Please describe the aspects you liked and any problems you noticed.
+
+[[Question:TextEntry:Essay]]
+Q17. How would you evaluate the customer text feedback? Please explain whether it helped you understand the outcomes of your decisions and whether you noticed any repetitive, unnatural, unclear, or inaccurate responses.
+
+[[Question:TextEntry:Essay]]
+Q18. Which had a greater influence on your engagement: the game's visual presentation or the customer feedback? Please explain why.
+
+[[Question:TextEntry:Essay]]
+Q19. Which part of the game prototype do you think most needs improvement?
